@@ -1,7 +1,7 @@
 # sql-challenge
- Module 9 Challenge
+Module 9 Challenge
 
-Create Employee Database 
+# Create Employee Database 
 with Tables: 
 title
 employees
@@ -10,9 +10,9 @@ dept_emp
 dept_manager
 salaries
 
-Import values from CSV to Tables in PostgreSQL pgAdmin
+# Import values from CSV to Tables in PostgreSQL pgAdmin
 
-Query for Data Analysis:
+# Query for Data Analysis:
 1. List the employee number, last name, first name, sex, and salary of each employee.
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
